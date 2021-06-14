@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Football Simulator",
+  "short_name": "Football Simulator",
+  "version": "io.Football_Simulator",
+  "description": "Football Simulator",
+  "author": "Football Simulator",
+  "icons": [],
+  "start_url": "index.html"
+}
